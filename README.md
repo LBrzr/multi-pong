@@ -1,7 +1,8 @@
 # multi-pong
 
 
-# Projet initial : https://www.sourcecodester.com/python/14889/pong-game-multiplayer-mode-using-python-free-source-code.html
+# Projet initial
+https://www.sourcecodester.com/python/14889/pong-game-multiplayer-mode-using-python-free-source-code.html
 
 
 # Pour lancer le jeu
@@ -10,6 +11,7 @@
   Ce fichier correspond :
     . au serveur de control de la ball et de la position des padles,
     . au client du joueur 1.
+
 2 - Executer index-client.py
   Ce fichier correspond :
     . au client du joueur 2.
